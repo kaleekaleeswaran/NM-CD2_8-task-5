@@ -1,1 +1,3 @@
-# NM-CD2_8-task-5
+# TODO LIST WEBAPP USING REACT(FRONTEND)+JAVA+MYSQL(BACKEND)
+
+front end deployed at [https://todolist-ten-jade.vercel.app/]
