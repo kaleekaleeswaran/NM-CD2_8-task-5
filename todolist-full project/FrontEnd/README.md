@@ -1,7 +1,8 @@
 #  FRONTEND
 
-'''bash
+''' bash
 npm insall
+'''
 
 ## To build
 '''bash
