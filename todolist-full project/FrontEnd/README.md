@@ -1,18 +1,20 @@
 #  FRONTEND
 
-'''console
+```bash
 npm insall
-'''
+```
 
 ## To build
-'''bash
+```bash
 npm run build
+```
 
 ## To preview
-'''bash
+```bash
 npm run preview
+```
 
 ## To run 
-'''bash
+```bash
 npm run dev
-
+```
