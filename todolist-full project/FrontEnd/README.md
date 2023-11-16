@@ -1,6 +1,6 @@
 #  FRONTEND
 
-''' bash
+'''bash
 npm insall
 '''
 
